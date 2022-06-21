@@ -26,8 +26,8 @@ In order to process an image use the endpoint (/api/image/) providing parameters
     - icelandwaterfall
     - palmtunnel
     - santamonica
-- width: positive intger number greater than zero
-- height: positive intger number greater than zero
+- width: positive integer number greater than zero
+- height: positive integer number greater than zero
 
 _Example:_
 http://localhost:3000/api/image?imagename=encenadaport&width=500&height=500
